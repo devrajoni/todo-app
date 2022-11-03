@@ -1,0 +1,15 @@
+.floating-label.is-invalid{
+    margin-bottom: 0px;
+}
+.floating-label .is-invalid{
+    border-color: #c20909 !important;
+}
+.form-label{
+    text-align: left !important;
+    width: 100%;
+}
+.form-control {
+    border: 2px solid #768492 !important;
+    padding: 10px !important;
+    border-radius: 10px !important;
+}
